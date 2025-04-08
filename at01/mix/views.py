@@ -1,0 +1,1 @@
+# views.py com listagem e detalhes

@@ -1,0 +1,1 @@
+# admin.py com Produto registrado

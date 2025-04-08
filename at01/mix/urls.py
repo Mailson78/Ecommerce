@@ -1,0 +1,1 @@
+# urls.py da app mix
